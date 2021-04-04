@@ -1,0 +1,5 @@
+click==7.1.2
+requests~=2.25.1
+funcy~=1.15
+pytest~=6.2.2
+responses~=0.13.2
